@@ -9,7 +9,7 @@ MCA (Integrated) student and aspiring web developer. I enjoy learning new techno
 
 ## 🚀 Projects
 
-### [Student Management System](https://github.com/ashimalhotra1611/https://github.com/ashimalhotra1611/Student-Management-System)
+### [Student Management System](https://github.com/ashimalhotra1611/ashi--portofolio-/blob/main/index.html)
 A Python application to add, view, search and delete student records, with data stored in JSON files. Won an academic project award.
 **Tech:** Python, JSON, File Handling
 
